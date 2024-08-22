@@ -86,7 +86,7 @@ in
             priority = 750;
           }
           {
-            name = "codeium";
+            name = "copilot";
             priority = 300;
           }
           {
