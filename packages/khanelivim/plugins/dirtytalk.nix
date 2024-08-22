@@ -15,6 +15,6 @@
 
   opts.spelllang = [
     "en_us"
-    "programming"
+    # "programming"
   ];
 }
