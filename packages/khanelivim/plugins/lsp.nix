@@ -269,6 +269,11 @@ in
           ];
         };
 
+        gopls = {
+          enable = true;
+          filetypes = [ "go" ];
+        };
+
         yamlls = {
           enable = true;
           filetypes = [ "yaml" ];
